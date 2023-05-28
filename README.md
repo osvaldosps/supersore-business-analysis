@@ -1,1 +1,2 @@
-# supersore-business-analysis
+# Superstore Business Analysis 
+This project consists of analytical approach in Market and Customer Analysis for a Superstore. The objective of this project is to determine the right market and customer to optimize 2020 business strategy of a fictional Superstore which will result in higher profit and revenue. The analysis performed are Business Performance, Consumer Behavior, and Operational Performance Analysis. The result of this analysis will be market priority which should be focused for a better 2020 strategy.
